@@ -1,0 +1,100 @@
+anglais;What does the idiom "kick the bucket" mean?;To start a game;To die ;To spill water ;b
+anglais;Which word is a synonym for "ephemeral"?;Permanent ;Temporary ;Ancient ;b
+anglais;In grammar, what is the correct form: "She _____ to the store yesterday"?;gonne;Went;Goes;b
+anglais;What does the prefix "un-" typically mean in words like "unhappy" or "undo"?;Not or opposite of;Again;Many;a
+anglais;Which sentence uses correct subject-verb agreement?;The team are winning the game;The team is winning the game;The team were winning the game;b
+anglais;What does the idiom "bite the bullet" mean?;To eat quickly;To face a difficult situation bravely;To argue with someone;b
+anglais;How do you translate "logiciel" into English?;Hardware;Software;Firmware;b
+anglais;What is the correct English word for "réseau"?;Connection;Network;Server;b
+anglais;What is the past participle form of the irregular verb "to write"?;Writed;Wrote;Written;c
+anglais;In the sentence "By next year, she _____ her degree," what is the correct future perfect conjugation of "to complete"?;Will complete;Will have completed;Has completed;b
+anglais;Which is the correct conjugation of "to be" in the past continuous tense for "we"?;We was being;We were being;We been;b
+anglais;How do you translate "clavier" into English?;Mouse;Keyboard;Monitor;b
+anglais;What is the meaning of "break up" in a romantic context?;To end a relationship;To divide into pieces;To interrupt suddenly;a
+anglais;Which phrasal verb means "to tolerate or endure something"?;Give in;Put up with;Carry out;b
+anglais;Which sentence contains a relative clause?;The dog barks loudly;The dog that barks loudly is mine;The dog is barking now;b
+anglais;What does the suffix "-ology" typically mean in words like "biology" or "psychology"?;Study of;Fear of;Love of;a
+anglais;Which sentence is in the passive voice?;The chef cooked the meal;The meal was cooked by the chef;The chef is cooking the meal;b
+anglais;What does the phrasal verb "turn down" mean in the sentence: "She turned down the job offer"?;To increase the volume;To reject or refuse;To change direction;b
+anglais;Which phrasal verb means "to start a journey or trip"?;Set off;Put up;Look after;a
+anglais;In the sentence "He came across an old photo while cleaning," what does "came across" mean?;To find by chance;To argue with someone;To recover from illness;a
+culture_generale;Quel est le plus long fleuve du monde ?;Nil;Amazone;Yangtsé;b
+culture_generale;Quelle ville est surnommée "la ville lumière" ?;Londres;Paris;New York;b
+culture_generale;Qui a peint "La Joconde" ?;Vincent Van Gogh;Pablo Picasso;Léonard de Vinci;c
+culture_generale;Quel pays a inventé les Jeux Olympiques ?;Grèce;Italie;Égypte;a
+culture_generale;Quelle est la capitale du Canada ?;Toronto;Ottawa;Vancouver;b
+culture_generale;Qui est considéré comme le "père de la philosophie occidentale" ?;Socrate;Platon;Aristote;a
+culture_generale;Quel philosophe a écrit "Le contrat social" ?;Montesquieu;Jean-Jacques Rousseau;Voltaire;b
+culture_generale;Quel philosophe a dit "Je pense, donc je suis" ?;René Descartes;Emmanuel Kant;Friedrich Nietzsche;a
+culture_generale;Quel philosophe est connu pour sa critique de la morale chrétienne ?;Karl Marx;Friedrich Nietzsche;Arthur Schopenhauer;b
+culture_generale;Qui est l’auteur de "La République" ?;Socrate;Platon;Aristote;b
+culture_generale;Quel gaz est essentiel à la respiration des êtres vivants ?;Dioxyde de carbone;Azote;Oxygène;c
+culture_generale;Quel organe est responsable de pomper le sang dans le corps humain ?;Cœur;Foie;Poumons;a
+culture_generale;Quel est le principal pigment responsable de la photosynthèse chez les plantes ?;Mélanine;Chlorophylle;Hémoglobine;b
+culture_generale;Quelle est la plus grande planète du système solaire ?;Saturne;Jupiter;Uranus;b
+culture_generale;À quel règne appartiennent les champignons (mousses, levures, etc.) ?;Végétal;Fongique;Animal;b
+culture_generale;Quelle est l'unité de mesure de la force dans le système international ?;Joule;Newton;Watt;b
+culture_generale;Quelle particule possède une charge négative ?;Proton;Neutron;Électron;c
+culture_generale;Quelle est la vitesse approximative de la lumière dans le vide ?;300 000 km/s;150 000 km/s;3 000 km/s;a
+culture_generale;Quel phénomène explique l’arc-en-ciel ?;Réflexion de la lumière;Réfraction et dispersion de la lumière;Absorption de la lumière;b
+culture_generale;Quelle loi relie la tension, le courant et la résistance dans un circuit électrique ?;Loi de Coulomb;Loi de Faraday;Loi d’Ohm;c
+metiers_informatique;Quel métier se concentre sur l’écriture de code côté navigateur, souvent en JavaScript, HTML, CSS ?;Développeur front-end;Développeur back-end;DevOps;a
+metiers_informatique;Quel métier s’occupe principalement de la logique métier, des bases de données et des API ?;Développeur UX;Développeur back-end;Game Designer;b
+metiers_informatique;Quel rôle intègre front-end + back-end pour développer une application complète ?;Développeur Full Stack;Administrateur système;Scrum Master;a
+metiers_informatique;Quel métier est responsable de la qualité du code, tests automatisés et couverture de tests ?;QA Engineer;Product Owner;UI Designer;a
+metiers_informatique;Quel métier conçoit l’architecture logicielle, les schémas BDD, les design patterns ?;UI Designer;Architecte logiciel;Community Manager;b
+metiers_informatique;Quel métier améliore l’ergonomie, l’accessibilité, et l’expérience utilisateur d’un site web ?;Data Engineer;UX/UI Designer;DevOps;b
+metiers_informatique;Quel rôle utilise souvent TypeScript, React, Vue ou Angular ?;Développeur front-end;Architecte réseau;Technicien support;a
+metiers_informatique;Quel métier gère la conteneurisation, l’intégration continue et le déploiement logiciel ?;DevOps Engineer;Webmaster;Scrum Master;a
+metiers_informatique;Quel métier transforme les maquettes en sites fonctionnels et optimisés SEO ?;Data Scientist;Web Designer;Intégrateur web;c
+metiers_informatique;Quel rôle définit les besoins, les user stories et priorise les fonctionnalités ?;Product Owner;UX Writer;DBA;a
+metiers_informatique;Quel métier est principalement chargé de concevoir les modèles de données et pipelines ETL ?;Data Engineer;Support IT;UX Designer;a
+metiers_informatique;Quel rôle rédige les spécifications fonctionnelles détaillées avant le développement ?;Analyste fonctionnel;Administrateur réseau;Game Artist;a
+metiers_informatique;Qui est responsable du monitoring et de la mise en place de politiques de sécurité réseau ?;Développeur front-end;Ingénieur cybersécurité;Community manager;b
+metiers_informatique;Quel métier doit maîtriser Git, CI/CD, Docker, Kubernetes ?;Ingénieur DevOps;Technicien Helpdesk;Chef de produit;a
+metiers_informatique;Quel métier doit optimiser les performances des requêtes SQL et gérer la base de données ?;Administrateur BDD (DBA);Administrateur système;Testeur QA;a
+metiers_informatique;Quel métier développe l’intelligence artificielle, les modèles ML et les algorithmes ?;Data Scientist;UI Designer;Social Media Manager;a
+metiers_informatique;Quel métier est responsable de la création d’API robustes, sécurisées et scalables ?;Développeur back-end;Développeur front-end;Administrateur réseau;a
+metiers_informatique;Quel rôle gère la stratégie produit, priorise le backlog et parle avec les clients ?;Pentester;Product Owner;Data Engineer;b
+metiers_informatique;Quel métier conçoit l’infrastructure cloud sur AWS, Azure ou GCP ?;Architecte Cloud;Développeur mobile;Webmaster;a
+metiers_informatique;Quel métier est principalement responsable de l’écriture du code source d’une application ?;Administrateur système;Développeur logiciel;Data Analyst;b
+logique;Si tous les développeurs aiment le café, et que Marc est développeur, que peut-on conclure ?;Marc n’aime pas le café;Marc aime le café;Impossible de savoir;b
+logique;Si A implique B, et B est faux, que peut-on conclure ?;A est vrai;A est faux;Impossible de conclure sur A;c
+logique;Si deux nombres impairs sont additionnés, le résultat est toujours :;Pair;Impair;Multiple de 3;a
+logique;Le contraire de “p ET q” est :;p OU q;NON p OU NON q;NON p ET NON q;b
+logique;Si p ⇒ q et q ⇒ r, alors; p ⇒ r; r ⇒ p; p ∧ r;a
+logique;Le contraire de ∀x P(x) est; ∀x ¬P(x); ¬∀x P(x); ∃x ¬P(x);c
+logique;Le contraire de ∃x P(x) est; ∃x ¬P(x); ¬∃x P(x); ∀x ¬P(x);c
+logique;Si ¬(p ∧ q) est vrai, alors; p et q sont vrais; p et q sont faux; au moins un des deux est faux;c
+logique;La table de vérité de p ⇒ q est fausse seulement si; p est faux et q est vrai; p est vrai et q est faux; les deux sont faux;b
+logique;La disjonction p ∨ q est vraie si; p et q sont vrais; au moins un des deux est vrai; p et q sont faux;b
+logique;La négation de (p ⇒ q) est; p ∧ q; p ∧ ¬q; ¬p ∧ q;b
+logique;Dans un raisonnement par contraposée, on prouve; p ⇒ q; q ⇒ p; ¬q ⇒ ¬p;c
+logique;Une tautologie est une formule; toujours fausse; toujours vraie; parfois vraie;b
+logique;Si tous les chats sont des animaux et que certains animaux sont noirs, alors;Tous les chats sont noirs;Certains chats sont noirs;On ne peut pas conclure;c
+logique;Si p est faux, alors ¬p est;Faux;Vrai;Inconnu;b
+logique;Si A implique B et B est vrai, que peut-on conclure sur A ?;A est vrai;A est faux;On ne peut pas conclure;c
+logique;Si deux affirmations sont vraies, leur conjonction (p ∧ q) est;Vraie;Fausse;Inconnue;a
+logique;Si p ⇒ q et p est vrai, alors;q est vrai;q est faux;r est vrai;a
+logique;Une contradiction est un énoncé;Toujours vrai;Toujours faux;Parfois vrai;b
+logique;Un raisonnement correct mais basé sur une prémisse fausse est;Valide;Non valide;Impossible;a
+algorithmes;Quel est l’objectif principal d’un algorithme de tri ?;Réduire l’espace mémoire;Réorganiser les données selon un ordre défini;Trouver la valeur maximale;b
+algorithmes;Quel algorithme utilise le principe "diviser pour régner" ?;Bubble Sort;Merge Sort;Counting Sort;b
+algorithmes;Quel algorithme trouve le plus court chemin dans un graphe pondéré positivement ?;Dijkstra;DFS;Kruskal;a
+algorithmes;Quelle structure de données est utilisée par DFS ?;File;Pile;Arbre;b
+algorithmes;La complexité moyenne de Quick Sort est;O(n²);O(n log n);O(log n);b
+algorithmes;Quel algorithme construit un arbre couvrant minimum ?;Dijkstra;Kruskal;A*;b
+algorithmes;Quel algorithme est basé sur un pivot ?;Insertion Sort;Quick Sort;Heap Sort;b
+algorithmes;Quel algorithme utilise une file de priorité (min-heap) ?;Dijkstra;BFS;DFS;a
+algorithmes;Quel est l’objectif d’un algorithme glouton ?;Minimiser la mémoire;Trouver une solution locale optimale à chaque étape;Explorer toutes les solutions possibles;b
+algorithmes;Quel algorithme recherche une clé dans un tableau trié en temps O(log n) ?;Recherche séquentielle;Recherche binaire;Hashing;b
+algorithmes;Quel algorithme construit un arbre couvrant minimal en choisissant les arêtes par ordre croissant de poids ?;Prim;Kruskal;Bellman-Ford;b
+algorithmes;Quel algorithme garantit le tri en utilisant un tas binaire ?;Merge Sort;Heap Sort;Quick Sort;b
+algorithmes;La complexité moyenne de l’algorithme de recherche linéaire est;O(n);O(log n);O(1);a
+algorithmes;Quel algorithme utilise un tableau de comptes pour trier ?;Counting Sort;Insertion Sort;Tim Sort;a
+algorithmes;Quel algorithme utilise un pivot pour partitionner les données ?;Bubble Sort;Quick Sort;Shell Sort;b
+algorithmes;Dans un algorithme dynamique, on mémorise les résultats intermédiaires pour;Améliorer la précision;Réduire le temps de calcul;Réduire l’espace mémoire;b
+algorithmes;Quel algorithme trouve le plus court chemin dans un graphe avec poids négatifs ?;Dijkstra;Bellman-Ford;Prim;b
+algorithmes;La différence entre BFS et DFS est que BFS;Explore niveau par niveau;Explore en profondeur;Ne visite pas tous les nœuds;a
+algorithmes;Le but de l’algorithme de Floyd-Warshall est;Trouver un chemin unique;Trouver tous les plus courts chemins;Trouver un arbre couvrant minimal;b
+algorithmes;La différence entre Prim et Kruskal est que Prim;Choisit les arêtes par ordre croissant;Étend un arbre à partir d’un nœud;Utilise un pivot;b
