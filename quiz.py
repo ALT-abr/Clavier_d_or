@@ -134,9 +134,7 @@ def jouer_quiz(joueur, partie=None):
             else:
                 bonne_texte = {"a": a, "b": b, "c": c}.get(rep, rep)
                 print(f"\n☠️  Défaite contre le boss. La bonne était : {rep}) {bonne_texte}")
-                print("⚠️  Règle: défaite => reset score à 0")
-                score_total = 0
-                joueur.boss_elimine = 0
+                print("⚠️  Boss raté (pas de +5, pas de boss éliminé).")
 
             resume_on_boss = False
         
